@@ -20,4 +20,3 @@ Para ejecutar este proyecto localmente y poder compilar los estilos, sigue estos
    Ejecuta el siguiente comando en tu terminal para instalar Sass y Bootstrap:
    
    npm install
-
